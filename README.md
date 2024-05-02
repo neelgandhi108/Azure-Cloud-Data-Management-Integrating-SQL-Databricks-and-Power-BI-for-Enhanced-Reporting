@@ -50,7 +50,7 @@ A dynamic Power BI report was created, enabling real-time data visualization of 
 
 Implementation of Azure Active Directory and Azure Key Vault ensured robust data security and compliance monitoring throughout the project.
 
-- **Screenshots: ![ressource-group](https://github.com/neelgandhi108/Azure-Cloud-Data-Management-Integrating-SQL-Databricks-and-Power-BI-for-Enhanced-Reporting/tree/main/assets/ressource-group.png) , ![Activity_runs](https://github.com/neelgandhi108/Azure-Cloud-Data-Management-Integrating-SQL-Databricks-and-Power-BI-for-Enhanced-Reporting/tree/main/assets/Activity_runs.png)**
+- **Screenshots: ![ressource-group](https://github.com/neelgandhi108/Azure-Cloud-Data-Management-Integrating-SQL-Databricks-and-Power-BI-for-Enhanced-Reporting/tree/main/assets/ressource-group.png) , ![Activity_runs](https://github.com/neelgandhi108/Azure-Cloud-Data-Management-Integrating-SQL-Databricks-and-Power-BI-for-Enhanced-Reporting/blob/main/assets/Activity_runs.png)**
 
 ## Insights and Analytics
 
